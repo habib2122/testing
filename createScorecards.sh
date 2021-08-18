@@ -1,0 +1,2 @@
+mvn validate -Pscorecard
+

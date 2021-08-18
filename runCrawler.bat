@@ -1,0 +1,2 @@
+CALL mvn validate -Pcrawler
+
